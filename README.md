@@ -5,3 +5,6 @@ When you buy tokens, please do not sell them immediately, otherwise you will los
 To go public, we will use transaction tax funds for marketing and CMC and CG listing.
 
 It is distributed quarterly according to the investor's shareholding ratio, and the community has the right to decide.
+
+ Website:http://diamandhand.com
+ 
