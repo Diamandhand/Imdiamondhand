@@ -12,6 +12,6 @@ It is distributed quarterly according to the investor's shareholding ratio, and 
 
 <img src="https://img.icons8.com/ios/50/000000/twitter--v3.png"  width="20px"/> Twitter:
 
-<img src="https://img.icons8.com/material-outlined/24/000000/book.png"   width="20px"/> Whitepaper:http://whitepaper.diamondhand.com/
+<img src="https://img.icons8.com/material-outlined/24/000000/book.png"   width="20px"/> Whitepaper:http://whitepaper.diamandhand.com/
 
  
