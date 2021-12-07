@@ -14,4 +14,6 @@ It is distributed quarterly according to the investor's shareholding ratio, and 
 
 <img src="https://img.icons8.com/material-outlined/24/000000/book.png"   width="20px"/> Whitepaper:http://whitepaper.diamandhand.com/
 
+ <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png"   width="20px"/> Reddit: https://www.reddit.com/r/imdiamondhand/
  
+ <img src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png" width="20px"/> Discord:https://discord.gg/g7qesXcbUG
