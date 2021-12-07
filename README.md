@@ -6,7 +6,7 @@ To go public, we will use transaction tax funds for marketing and CMC and CG lis
 
 It is distributed quarterly according to the investor's shareholding ratio, and the community has the right to decide.
 
-<img src="https://img.icons8.com/material-rounded/50/000000/domain--v2.png" width="20px"/> Website:http://diamandhand.com
+<img src="https://img.icons8.com/material-rounded/50/000000/domain--v2.png" width="20px"/> Website:http://imdiamandhand.com
 
 <img src="https://img.icons8.com/material-rounded/24/000000/telegram-app.png"  width="20px"/> Telegram:https://t.me/Imdiamondhand_Office
 
