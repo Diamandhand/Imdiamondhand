@@ -8,9 +8,9 @@ It is distributed quarterly according to the investor's shareholding ratio, and 
 
 <img src="https://img.icons8.com/material-rounded/50/000000/domain--v2.png" width="20px"/> Website:http://diamandhand.com
 
-<img src="https://img.icons8.com/material-rounded/24/000000/telegram-app.png"  width="20px"/> Telegram:https://t.me/DiamanDHand_Office
+<img src="https://img.icons8.com/material-rounded/24/000000/telegram-app.png"  width="20px"/> Telegram:https://t.me/Imdiamondhand_Office
 
-<img src="https://img.icons8.com/ios/50/000000/twitter--v3.png"  width="20px"/> Twitter:https://twitter.com/Imdiamondhand
+<img src="https://img.icons8.com/ios/50/000000/twitter--v3.png"  width="20px"/> Twitter:https://twitter.com/imdiamondhand
 
 <img src="https://img.icons8.com/material-outlined/24/000000/book.png"   width="20px"/> Whitepaper:http://whitepaper.diamandhand.com/
 
